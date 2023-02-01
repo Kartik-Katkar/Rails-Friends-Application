@@ -3,13 +3,15 @@
 The setups steps expect following tools installed on the system.
 
 - Github
-- Ruby [2.7.7](https://github.com/organization/project-name/blob/master/.ruby-version#L1)
-- Rails [7.0.4.2](https://github.com/organization/project-name/blob/master/Gemfile#L12)
+- Ruby [2.7.7](https://www.ruby-lang.org/en/news/2022/11/24/ruby-2-7-7-released/)
+- Rails [7.0.4.2](https://rubygems.org/gems/rails/versions/7.0.4)
+
+Gem used - Devise [get gem](https://rubygems.org/gems/devise)
 
 ##### 1. Check out the repository
 
 ```bash
-git clone git@github.com:organization/project-name.git
+git clone git@github.com:Kartik-Katkar/Rails-Friends-Application.git
 ```
 
 ##### 2. Create database.yml file
