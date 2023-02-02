@@ -40,3 +40,11 @@ bundle exec rails s
 ```
 
 And now you can visit the site with the URL http://localhost:3000
+
+Objective - Learning Ruby on Rails with a Project
+
+## Screenshots of working
+
+<p align="center">
+  <img src="./Screenshot/1.png" alt="First Image"/>
+</p>
