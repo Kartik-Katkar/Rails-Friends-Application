@@ -2,7 +2,6 @@
 
 The setups steps expect following tools installed on the system.
 
-- Github
 - Ruby [2.7.7](https://www.ruby-lang.org/en/news/2022/11/24/ruby-2-7-7-released/)
 - Rails [7.0.4.2](https://rubygems.org/gems/rails/versions/7.0.4)
 
