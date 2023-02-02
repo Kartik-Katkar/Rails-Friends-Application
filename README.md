@@ -46,5 +46,6 @@ Objective - Learning Ruby on Rails with a Project
 ## Screenshots of working
 
 <p align="center">
-  <img src="./Screenshot/1.png" alt="First Image"/>
+  <img src="./Screenshot/app.gif" alt="Image"/>
 </p>
+
