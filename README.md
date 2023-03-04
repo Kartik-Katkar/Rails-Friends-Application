@@ -1,5 +1,6 @@
 ##### Prerequisites
 
+
 The setups steps expect following tools installed on the system.
 
 - Ruby [2.7.7](https://www.ruby-lang.org/en/news/2022/11/24/ruby-2-7-7-released/)
@@ -47,4 +48,3 @@ Objective - Learning Ruby on Rails with a Project
 <p align="center">
   <img src="./Screenshot/app.gif" alt="Image"/>
 </p>
-
