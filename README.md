@@ -1,3 +1,23 @@
+## Gif 
+
+<p align="center">
+  <img src="./Screenshot/app.gif" alt="Image"/>
+</p>
+
+## Features
+
+The website is a robust CRUD (Create, Read, Update, Delete) application developed using Ruby on Rails and integrated with popular gems like Devise. It is specifically designed for managing data related to friends.
+
+Users can easily create new friends by adding their details such as name, contact information, and other relevant information. They can also view and search for existing friends, making it convenient to keep track of all friends in one place.
+
+Updating and editing friends' information is made simple with the website. Users can easily modify their friends' details, such as phone numbers or email addresses, ensuring that the information is always up-to-date and accurate.
+
+In addition, the website provides the ability to delete friends from the list if they are no longer needed, giving users the flexibility to manage their friends' data as per their preferences.
+
+To ensure security, the website is integrated with Devise, a powerful authentication and authorization solution. This ensures that user accounts and friends' data are protected and secure. Users can sign up, sign in, and manage their account information with confidence.
+
+The website is designed with a user-friendly interface, providing a seamless experience for managing friends' data. It leverages the power of Ruby on Rails and gems like Devise to create a reliable and efficient CRUD application for managing friends' data effectively.
+
 ##### Prerequisites
 
 
@@ -42,9 +62,3 @@ bundle exec rails s
 And now you can visit the site with the URL http://localhost:3000
 
 Objective - Learning Ruby on Rails with a Project
-
-## Screenshots of working
-
-<p align="center">
-  <img src="./Screenshot/app.gif" alt="Image"/>
-</p>
